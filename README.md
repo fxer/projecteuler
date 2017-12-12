@@ -1,2 +1,2 @@
-# projecteuler
-Project Euler puzzles 
+# Project Euler
+[Project Euler](https://projecteuler.net/) puzzles 
